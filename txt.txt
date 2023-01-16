@@ -2,6 +2,12 @@ WEBAPI
 -------
 https://github.com/sagarbhade/dotnetconnected 
 
+https://github.com/oshoup521/dotnetwebapicrud.git
+
+
+
 MVC
 ----
 https://github.com/gunjalrushabh/MVC-DOTNET-7-APP
+
+https://github.com/oshoup521/dotnetmvccrud.git
